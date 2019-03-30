@@ -6,3 +6,5 @@ Connect to the keil software, then read the variable or memory address, and then
 Need 4.5 .net framework runtime
 
 1.20190330, 1.4b, add and export wav function, you can manually detect updates.
+
+TODO：support image format
