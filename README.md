@@ -9,5 +9,6 @@ Need 4.5 .net framework runtime
  
 
 2019.12.27 release 1.4.2  "keil数组曲线显示 KArrayV142.rar" To:2021.1.1
+
 2021.01.05 release 1.4.3  "https://github.com/seatrix/Keil-Array-Visualization/blob/master/KArrayV143_2021.rar" To:2021.1.1
 
