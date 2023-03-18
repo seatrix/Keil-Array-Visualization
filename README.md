@@ -13,3 +13,4 @@ Need 4.5 .net framework runtime
 2021.01.05 release 1.4.3  "https://github.com/seatrix/Keil-Array-Visualization/blob/master/KArrayV143_2021.rar" To:2021.1.1
 
 2022.01.03 release 1.4.4  "https://pan.baidu.com/s/1DQWPAwhG_MsrGllr-LDiWA"  code:vqe9   To:2023.1.1
+20230318 ，1.5b，  feature: Read memory addresses of remote processes
